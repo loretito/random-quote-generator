@@ -8,7 +8,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/loretito/random-quote-generator-task" target="_blank">
+    <a href="https://github.com/loretito/random-quote-generator" target="_blank">
       Code
     </a>
   </h3>
