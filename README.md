@@ -9,7 +9,7 @@
     </a>
     <span> | </span>
     <a href="https://github.com/loretito/random-quote-generator-task" target="_blank">
-      Solution
+      Code
     </a>
   </h3>
 </div>
