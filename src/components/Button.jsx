@@ -17,7 +17,7 @@ export const Button = () => {
 
   return (
     <div
-      className="flex text-primary hover:cursor-pointer absolute right-32 top-8"
+      className="flex text-primary hover:cursor-pointer absolute md:right-32 top-8 right-16 hover:text-black hover:ease-in ease-out duration-200"
       onClick={handleClick}
     >
       <p className="mr-[0.44rem] text-lg">random</p>

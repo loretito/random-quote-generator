@@ -3,12 +3,12 @@ import { Line } from './Line'
 
 export const Quote = ({text, mt = ''}) => {
   return (
-    <div className={`flex justify-center ${mt}`}>
+    <div className={`flex justify-center md:${mt} mt-16`}>
         <div className="relative">
             <Line />
         </div>
-        <div className="w-[38rem]">
-          <p className="text-4xl">"{text}"</p>
+        <div className="lg:w-[38rem] md:w-[30rem] w-[16rem]">
+          <p className="md:text-4xl text-2xl">"{text}"</p>
         </div>
 
       </div>
