@@ -4,7 +4,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}" target="_blank">
+    <a href="https://random-quotes-loretito.netlify.app/" target="_blank">
       Demo
     </a>
     <span> | </span>
@@ -35,7 +35,7 @@
 
 ![screenshot](/public/quoteGenerator.png)
 
-This is my project. You can see the demo using this [link](). I'm doing this to improve my front-end skills. It was fun.
+This is my project. You can see the demo using this [link](https://random-quotes-loretito.netlify.app/). I'm doing this to improve my front-end skills. It was fun.
 
 
 ### Built With
@@ -70,7 +70,7 @@ $ yarn dev
 ```
 
 ## Acknowledgements
-- [Tailwindcss]
+- [Tailwindcss](https://tailwindcss.com/)
 - [Yarn](https://yarnpkg.com/)
 - [Marked - a markdown parser](https://github.com/chjj/marked)
 
