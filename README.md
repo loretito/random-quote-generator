@@ -11,10 +11,6 @@
     <a href="https://github.com/loretito/random-quote-generator-task" target="_blank">
       Solution
     </a>
-    <span> | </span>
-    <a href="https://devchallenges.io/challenges/8Y3J4ucAMQpSnYTwwWW8">
-      Challenge
-    </a>
   </h3>
 </div>
 
@@ -41,16 +37,8 @@ This is my project. You can see the demo using this [link](https://random-quotes
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
-
 - [React](https://reactjs.org/)
 - [Tailwind](https://tailwindcss.com/)
-
-## Features
-
-<!-- List the features of your application or follow the template. Don't share the figma file here :) -->
-
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/8Y3J4ucAMQpSnYTwwWW8) was to build an application to complete the given user stories.
-
 
 ## How To Use
 
