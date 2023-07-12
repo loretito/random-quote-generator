@@ -29,7 +29,7 @@
 
 ## Overview
 
-![screenshot](/public/quoteGenerator.png)
+![screenshot](/public/quotesPage.png)
 
 This is my project. You can see the demo using this [link](https://random-quotes-loretito.netlify.app/). I'm doing this to improve my front-end skills. It was fun.
 
@@ -48,7 +48,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [Y
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/loretito/random-quote-generator-task
+$ git clone https://github.com/loretito/random-quote-generator.git
 
 # Install dependencies
 $ yarn
