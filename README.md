@@ -32,17 +32,16 @@
 ![screenshot](/public/quotesPage.png)
 
 This is my project. You can see the demo using this [link](https://random-quotes-loretito.netlify.app/). I'm doing this to improve my front-end skills. It was fun.
+I also used this [API](https://pprathameshmore.github.io/QuoteGarden/) to develop this app.
 
 
 ### Built With
 
-<!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 - [React](https://reactjs.org/)
 - [Tailwind](https://tailwindcss.com/)
 
 ## How To Use
 
-<!-- For example: -->
 
 To clone and run this application, you'll need [Git](https://git-scm.com) and [Yarn](https://classic.yarnpkg.com/en/docs/install#debian-stable) installed on your computer. From your command line:
 
